@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]!  
+# 👋 Hi, I’m Janek!  
 
 ### 🎨 From Architect to Developer  
 I started my career as an architect, running my own design studio for several years. Over time, my passion shifted toward coding and creating solutions to simplify and optimize workflows—for myself and others.  
